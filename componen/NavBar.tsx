@@ -11,7 +11,7 @@ export default function NavigationBar() {
       <NavItem iconSrc="/asean_pass.png" label="Asean Pass" />
       <NavItem iconSrc="/shop.png" label="Duty-Free" />
       <NavItem iconSrc="/movetix.png" label="Movetix" />
-      <NavItem iconSrc="/food.png" label="Food" />
+      <NavItem iconSrc="https://static.airasia.com/design/icons/product-tile/web/show-all.svg" label="Food" />
     </div>
   );
 }

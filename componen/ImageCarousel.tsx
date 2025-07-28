@@ -9,9 +9,11 @@ import 'swiper/css/pagination'
 
 export default function ImageCarousel() {
   const images = [
-    'https://static.airasia.com/cosmos/images/herobanner/id/2025/Hero%20Banner__SEA%20YOU%20SOON%20THAILAND_Desktop_ID.jpg',
-    'https://static.airasia.com/cosmos/images/herobanner/id/2025/Hero%20Banner__SEA%20YOU%20SOON%20THAILAND_Desktop_ID.jpg',
-    'https://static.airasia.com/cosmos/images/herobanner/id/2025/Hero%20Banner__SEA%20YOU%20SOON%20THAILAND_Desktop_ID.jpg',
+    'https://static.airasia.com/cosmos/images/herobanner/id/2025/Hero%20Banner__SEA%20YOU%20SOON%20THAILAND_Mobile_ID.jpg',
+    'https://static.airasia.com/cosmos/images/herobanner/id/2025/HB-ID-Mobile.48hrs.jpg',
+    'https://storage.googleapis.com/static.airasia.com/cosmos/images/herobanner/id/2025%20Hotel/2407/IDID_HOTELS-ALWAYS-ON-CAMPAIGN_PHASE2_IDR270K_SE-Hero-Banner-Mob.jpg',
+    'https://storage.googleapis.com/static.airasia.com/cosmos/images/herobanner/id/2025%20SNAP/1007/IDID_SNAP%20ASEAN_Adaptations_HB%20Web.jpg',
+    'https://static.airasia.com/cosmos/images/herobanner/id/2025/1607/CCR-6803%5BIDID%5D%5BSMALL%5D%5BFLYBEYOND%5D%5BJULY_ASEAN%5D-Hero-Banner-Mobile.jpg'
   ]
 
   return (
