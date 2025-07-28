@@ -13,6 +13,7 @@ import Notice from "@/componen/Notice";
 import { FaHome, FaTicketAlt, FaPlaneDeparture, FaBed, FaComment } from "react-icons/fa";
 
 
+
 export default function Home() {
   return (
    <div className=" min-m-[100vh] h-full flex-col ">
